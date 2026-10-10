@@ -1,0 +1,39 @@
+# Miguel Clavel · Live demos and kits
+
+> Live demos and copyable kits by Miguel Clavel, Senior Product Designer for fintech, insurance and credit: web interactions, AI UX patterns, a portfolio chat, a product design playbook, and Claude Code skills for designers and UX researchers. Everything is free to copy under the MIT license.
+
+## About Miguel Clavel
+
+- [Portfolio](https://miguelclavel.com/): his twelve case studies
+- [Portfolio chat](https://chat.miguelclavel.com/): ask about his work, process and how he designs with AI
+- [GitHub](https://github.com/miguelclavel)
+- [LinkedIn](https://www.linkedin.com/in/miguelclavel/)
+
+## Live demos
+
+- [Pixel Trail](https://miguelclavel.github.io/pixel-trail/): A grid of squares that remembers your pointer and never draws over the text.
+- [Name Hover](https://miguelclavel.github.io/name-hover/): Every letter of a name gets its own hover animation.
+- [Wave Line](https://miguelclavel.github.io/wave-line/): A divider that bends toward your cursor and wobbles back.
+- [Scroll Into Header](https://miguelclavel.github.io/scroll-into-header/): A big name that travels into the header as you scroll.
+- [Pixel Dissolve](https://miguelclavel.github.io/pixel-dissolve/): Scroll from light into dark and the page comes apart in squares.
+- [Curve Carousel](https://miguelclavel.github.io/curve-carousel/): Case studies that ride a huge circle.
+- [Dark Mode](https://miguelclavel.github.io/dark-mode/): A theme toggle that remembers you, with no flash on load.
+- [Sticker Burst](https://miguelclavel.github.io/sticker-burst/): Click a heading and it bursts into stickers.
+- [Pixel Run](https://miguelclavel.github.io/pixel-run-game/): The little runner from my footer. Bring your own face.
+- [Portfolio details](https://miguelclavel.github.io/portfolio-details/): A viewed badge, the short version, and a brand selection colour.
+- [AI UX patterns](https://miguelclavel.github.io/ai-ux-patterns/): Seven patterns for AI products people can trust.
+- [Portfolio chat starter](https://miguelclavel.github.io/portfolio-chat-starter/): A portfolio people can talk to, in one file.
+
+## Kits and write ups
+
+- [Product design playbook](https://github.com/miguelclavel/product-design-playbook): From a vague request to live, in eight steps, with templates.
+- [UX research skills](https://github.com/miguelclavel/ux-research-skills): Eighteen Claude Code skills, one per research job.
+- [Claude skills for designers](https://github.com/miguelclavel/claude-skills-for-designers): Ten skills: reviews, privacy scans, copy, experiments, launch checks.
+- [AI prompts for product designers](https://github.com/miguelclavel/ai-prompts-for-designers): Ten prompts, each with the checks to run after.
+- [Interaction recipes](https://github.com/miguelclavel/interaction-recipes): Twenty interactions and fixes, each with a recording and a prompt.
+- [A portfolio you can talk to](https://github.com/miguelclavel/chat-portfolio): How chat.miguelclavel.com works, and its build log.
+- [miguelclavel.com](https://github.com/miguelclavel/miguelclavel.com): The portfolio, its small moments, and what broke at launch.
+
+## Claude Code skills
+
+- Install: `/plugin marketplace add miguelclavel/claude-skills-for-designers`, then `/plugin install claude-skills-for-designers@miguelclavel` (10 design skills) and `/plugin install ux-research-skills@miguelclavel` (18 research skills)
